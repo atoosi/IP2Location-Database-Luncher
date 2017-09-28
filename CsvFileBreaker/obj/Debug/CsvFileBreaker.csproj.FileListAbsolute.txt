@@ -1,0 +1,9 @@
+c:\users\atoosi.questinc\documents\visual studio 2017\Projects\CsvFileBreaker\CsvFileBreaker\bin\Debug\CsvFileBreaker.exe.config
+c:\users\atoosi.questinc\documents\visual studio 2017\Projects\CsvFileBreaker\CsvFileBreaker\bin\Debug\CsvFileBreaker.exe
+c:\users\atoosi.questinc\documents\visual studio 2017\Projects\CsvFileBreaker\CsvFileBreaker\bin\Debug\CsvFileBreaker.pdb
+c:\users\atoosi.questinc\documents\visual studio 2017\Projects\CsvFileBreaker\CsvFileBreaker\obj\Debug\CsvFileBreaker.csprojResolveAssemblyReference.cache
+c:\users\atoosi.questinc\documents\visual studio 2017\Projects\CsvFileBreaker\CsvFileBreaker\obj\Debug\CsvFileBreaker.Form1.resources
+c:\users\atoosi.questinc\documents\visual studio 2017\Projects\CsvFileBreaker\CsvFileBreaker\obj\Debug\CsvFileBreaker.Properties.Resources.resources
+c:\users\atoosi.questinc\documents\visual studio 2017\Projects\CsvFileBreaker\CsvFileBreaker\obj\Debug\CsvFileBreaker.csproj.GenerateResource.Cache
+c:\users\atoosi.questinc\documents\visual studio 2017\Projects\CsvFileBreaker\CsvFileBreaker\obj\Debug\CsvFileBreaker.exe
+c:\users\atoosi.questinc\documents\visual studio 2017\Projects\CsvFileBreaker\CsvFileBreaker\obj\Debug\CsvFileBreaker.pdb
